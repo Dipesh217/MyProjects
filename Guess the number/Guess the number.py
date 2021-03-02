@@ -1,3 +1,4 @@
+print("Welcome to Guess The Number Game \n")
 import random
 i = random.randint(1,100)
 chance=1
