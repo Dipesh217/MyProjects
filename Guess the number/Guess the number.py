@@ -26,7 +26,3 @@ while True:
         print("Enter a greater number than ",num)
         chance = chance + 1
 
-    else:
-        print("Congradulation, you have guessed the number.")
-        break
-
